@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "version": "1.1.5",
+      "date": "2025-08-22",
+      "items": [
+        "Improved UI functionality",
+        "Improved DayNight Mode",
+        "Add Decrypt Button",
+        "Support Android 7 - 16"
+      ]
+    },{
       "version": "1.1.4",
       "date": "2025-08-10",
       "items": [
