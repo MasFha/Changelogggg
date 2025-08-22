@@ -1,0 +1,26 @@
+{
+  "releases": [
+    {
+      "version": "1.1.4",
+      "date": "2025-08-10",
+      "items": [
+        "Improved UI functionality",
+        "Add Bottom Navigation",
+        "Fixed button Copy",
+        "Fix button restored",
+        "Moved copy/restore to Navigation",
+        "Improve encryption method with salt"
+      ]
+    },
+    {
+      "version": "1.1.3",
+      "date": "2025-06-01",
+      "items": [
+        "VPN support",
+        "New UI",
+        "Support Android 7 - 13",
+        "DayNight Mode"
+      ]
+    }
+  ]
+}
